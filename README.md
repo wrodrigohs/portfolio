@@ -11,6 +11,6 @@
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise dos dados do Airbnb de Barcelona:** 
+* **Análise dos dados do Airbnb de Barcelona:** https://bit.ly/3lFWr2A
 
 ---
