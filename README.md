@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="https://image.freepik.com/vetores-gratis/grafico-3d-da-terra-que-simboliza-a-ilustracao-do-comercio-global_456031-125.jpg" >
 </p>
 
 # Wallynson Rodrigo
