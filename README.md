@@ -13,5 +13,6 @@
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise dos dados do Airbnb de Barcelona:** https://bit.ly/3lFWr2A
+* **Estudo sobre os dados da COVID-19:** https://bit.ly/3un1pqd
 
 ---
