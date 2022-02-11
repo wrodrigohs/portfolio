@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-wrodrigohs-red.svg)](https://www.linkedin.com/in/wrodrigohs/) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-388//) [![](![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white))](https://flutter.dev/) 
+[![author](https://img.shields.io/badge/author-wrodrigohs-red.svg)](https://www.linkedin.com/in/wrodrigohs/) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-388//)
 
 <p align="center">
   <img src="banner.jpg" >
